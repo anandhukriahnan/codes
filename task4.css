@@ -1,0 +1,25 @@
+*{
+    background-color: white;
+    
+}
+#box{
+    background-color: black;
+    height: 60px;
+    gap: 280px;
+    border:10px solid white;
+}
+span{
+    background-color: black;
+    color: white;
+}
+div{
+    word-spacing: 200px;
+}
+#product{
+    background-color: white;
+
+}
+.link{
+    background-color: yellow;
+}
+
